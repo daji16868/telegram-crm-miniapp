@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import Header from './components/Header'
 import CustomerForm from './components/CustomerForm'
 import { testTelegramWebApp, testSendData } from './utils/telegramTest'
